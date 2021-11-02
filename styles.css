@@ -36,7 +36,21 @@ h1
 	font-size: 28px;
 	margin-left: 40px;
 }
-.decoration
+.dec
 {
-	
+	color: blue;
+	font-size: 18px;
+	margin-left: 40px;
+}	
+.underline
+{
+	color: pink;
+	font-size: 18px;
+	margin-left: 80px;
+}
+.underline
+{
+	color: pink;
+	font-size: 18px;
+	margin-left: 80px;
 }
