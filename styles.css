@@ -2,3 +2,18 @@ body
 {
 	background: #aaf0d1;
 }
+h1
+{
+ 	color: #9932cc;
+}
+.a
+{
+	font-size: 18px;
+	background: yellow;
+}
+.b
+{
+	font-size: 18px;
+	text-decoration: underline;
+	font-weight: 1000;
+}
